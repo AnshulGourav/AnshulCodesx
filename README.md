@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, JavaScript, Nodejs**
 
-- 📫 How to reach me **anshulgourav6722@gmail.com**
+- 📫 How to reach me **anshulgourav6733@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="anshulgourav6733@gmail.com">anshulgourav6733@gmail.co</a>
